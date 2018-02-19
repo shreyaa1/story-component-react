@@ -1,0 +1,41 @@
+.container{
+  background-color: #f4f4f4;
+  margin: 132px 132px;
+}
+
+.cards{
+  display: flex;
+}
+
+.main-card{
+
+  width: 334px;
+  font-size: 34px;
+  margin: 0;
+  padding: 0 16px 10px 20px;
+  color: white
+}
+.primary-cards{
+  width: 370px;
+  font-style: normal;
+  color: #5B5554;
+  margin-left: 23px;
+
+}
+
+.secondary-cards {
+  width: 370px;
+  font-style: normal;
+  margin-left:23px;
+  }
+  .card{
+    background-color: white;
+
+     }
+  .Story{
+    border-bottom: 1px solid black;
+  }
+  .title{
+    padding-left: 23px;
+    padding-top: 10px;
+  }
