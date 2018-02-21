@@ -1,0 +1,51 @@
+.title{
+    display: inline-flex;
+    border-bottom: solid 4px #6093f2;
+    margin-left: 32px;
+    padding-top: 5px;
+  }
+.card-wrapper{
+  display: flex;
+  box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.1);
+  width: 1172px;
+  height: 443.5px;
+}
+.cards{
+  display: flex;
+}
+.main-card{
+
+  width: 334px;
+  font-size: 34px;
+  margin: 0;
+  padding: 0 16px 10px 20px;
+  color: white
+}
+.primary-cards{
+  font-style: normal;
+  color: #5B5554;
+  margin: 0px 32px 0 32px;
+  
+}
+.secondary-cards {
+  width: 370px;
+  font-style: normal;
+  }
+  .card{
+    background-color: white;
+    width: 370px;
+  }
+  .Story:last-child{
+    border: none;
+  }
+  .Story{
+    border-bottom: 1px solid black;
+  }
+   .block{
+  padding: 0px 23px 1px 23px;
+  margin-top: 23px;
+  box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.1);
+}
+.block:nth-child(1){
+  padding: 21px 72px 21px 23px;
+}
